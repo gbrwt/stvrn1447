@@ -1,4 +1,4 @@
-# FREERDP
+# FreeRdp
 ### Don't copy this code without give me the credits, nerd! 
 
 This free RDP by Azure is brought to you by ZheHacK!
