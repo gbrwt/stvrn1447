@@ -4,14 +4,14 @@
 This free RDP by Azure is brought to you by ZheHacK!
 
 ### Now lets get to the free RDP stuff!
-Requirements:
+
+### Requirements:
 
 Github Account
 Google Account
 
 
 ### HOW TO USE:
-```
 
 Just Fork this Repository, Go to Actions tab, Select the Windows-CRD workflow. Then select Run Workflow fill the following data in CRD Code and your Pin in the fields. After that, Press Start.
 
