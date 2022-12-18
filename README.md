@@ -4,7 +4,7 @@
 - [English](README.md)
 - [Indonesia](README.Id.md)
 
-This free RDP by Azure is brought to you by ZheHacK!
+This free by Azure is brought to you by ZheHacK!
 
 ### Now lets get to the free RDP stuff!
 
